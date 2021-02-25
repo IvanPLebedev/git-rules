@@ -1,0 +1,7 @@
+# Коллекция полезных .gitignore от GitHub: https://github.com/github/gitignore
+
+# Исключение из игнорирования конкретного файла:
+!init.md
+/.vs/slnx.sqlite
+/.vs/git-rules/v16/.suo
+/.vs/VSWorkspaceState.json
